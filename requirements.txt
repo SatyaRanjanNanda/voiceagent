@@ -1,0 +1,15 @@
+google-genai>=2.25.0
+sounddevice>=0.5.6
+numpy>=2.0
+pyttsx3>=2.99
+pyautogui>=0.9.54
+Pillow>=10.0
+pyperclip>=1.11.0
+python-dotenv>=1.2
+yt-dlp>=2026.8.19
+rapidfuzz>=3.14
+psutil>=7.2
+PySide6-Essentials>=6.11
+
+# Optional: only needed for STT_BACKEND=cloud (Google Cloud Speech-to-Text)
+# google-cloud-speech>=2.30.0
